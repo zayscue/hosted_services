@@ -19,7 +19,12 @@ public sealed class TimerAsync : ITimer
     public bool IsRunning { get; private set; }
 
 
-    public TimerAsync(Func<CancellationToken, Task> scheduledAction, TimeSpan dueTime, TimeSpan period, bool canStartNextActionBeforePreviousIsCompleted = false)
+    public TimerAsync(
+        Func<CancellationToken, Task> scheduledAction,
+        TimeSpan dueTime,
+        TimeSpan period,
+        bool canStartNextActionBeforePreviousIsCompleted = false
+    )
     {
         _scheduledAction = scheduledAction ?? throw new ArgumentNullException(nameof(scheduledAction));
 
