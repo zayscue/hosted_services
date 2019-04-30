@@ -1,0 +1,14 @@
+/Users/ztayscue/source/repos/hosted_services/bin/Debug/netcoreapp2.2/hosted_services.deps.json
+/Users/ztayscue/source/repos/hosted_services/bin/Debug/netcoreapp2.2/hosted_services.runtimeconfig.json
+/Users/ztayscue/source/repos/hosted_services/bin/Debug/netcoreapp2.2/hosted_services.runtimeconfig.dev.json
+/Users/ztayscue/source/repos/hosted_services/bin/Debug/netcoreapp2.2/hosted_services.dll
+/Users/ztayscue/source/repos/hosted_services/bin/Debug/netcoreapp2.2/hosted_services.pdb
+/Users/ztayscue/source/repos/hosted_services/obj/Debug/netcoreapp2.2/hosted_services.csprojAssemblyReference.cache
+/Users/ztayscue/source/repos/hosted_services/obj/Debug/netcoreapp2.2/hosted_services.csproj.CoreCompileInputs.cache
+/Users/ztayscue/source/repos/hosted_services/obj/Debug/netcoreapp2.2/hosted_services.RazorAssemblyInfo.cache
+/Users/ztayscue/source/repos/hosted_services/obj/Debug/netcoreapp2.2/hosted_services.RazorAssemblyInfo.cs
+/Users/ztayscue/source/repos/hosted_services/obj/Debug/netcoreapp2.2/hosted_services.AssemblyInfoInputs.cache
+/Users/ztayscue/source/repos/hosted_services/obj/Debug/netcoreapp2.2/hosted_services.AssemblyInfo.cs
+/Users/ztayscue/source/repos/hosted_services/obj/Debug/netcoreapp2.2/hosted_services.RazorTargetAssemblyInfo.cache
+/Users/ztayscue/source/repos/hosted_services/obj/Debug/netcoreapp2.2/hosted_services.dll
+/Users/ztayscue/source/repos/hosted_services/obj/Debug/netcoreapp2.2/hosted_services.pdb
